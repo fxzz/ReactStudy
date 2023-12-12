@@ -3,11 +3,11 @@ React 공부 정리
 
 ### React 규칙
 
-html 에서 React
+html > React
 <br>
 <br>
-href     to
+href > to
 <br>
-class    className
+class > className
 <br>
-a태그     link태그
+a태그 > link태그
